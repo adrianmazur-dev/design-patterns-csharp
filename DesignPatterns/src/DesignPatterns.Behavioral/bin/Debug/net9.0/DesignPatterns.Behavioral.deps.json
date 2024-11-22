@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DesignPatterns.Behavioral/1.0.0": {
+        "dependencies": {
+          "DesignPatterns.Core": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.Behavioral.dll": {}
+        }
+      },
+      "DesignPatterns.Core/1.0.0": {
+        "runtime": {
+          "DesignPatterns.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns.Behavioral/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatterns.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

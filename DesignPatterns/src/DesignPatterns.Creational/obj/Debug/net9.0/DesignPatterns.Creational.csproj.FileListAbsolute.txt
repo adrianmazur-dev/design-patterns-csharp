@@ -1,0 +1,16 @@
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\bin\Debug\net9.0\DesignPatterns.Creational.deps.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\bin\Debug\net9.0\DesignPatterns.Creational.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\bin\Debug\net9.0\DesignPatterns.Creational.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\bin\Debug\net9.0\DesignPatterns.Core.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\bin\Debug\net9.0\DesignPatterns.Core.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.csproj.AssemblyReference.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.AssemblyInfoInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.AssemblyInfo.cs
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.csproj.CoreCompileInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.sourcelink.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPa.AFDE008D.Up2Date
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\refint\DesignPatterns.Creational.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\DesignPatterns.Creational.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Creational\obj\Debug\net9.0\ref\DesignPatterns.Creational.dll

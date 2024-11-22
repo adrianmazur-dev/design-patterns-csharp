@@ -22,7 +22,7 @@ This repository contains examples of design patterns implemented in C#/.NET.
 | | 📦 Composite | ⏳ | A tree structure of simple and composite objects |
 | | 🎭 Facade | ⏳ | A single interface to a complex subsystem |
 | **Behavioral** | 👀 Observer | ⏳ | A way of notifying change to multiple classes |
-| | 💫 Strategy | ⏳ | Encapsulates an algorithm inside a class |
+| | 💫 Strategy | ✅ | Encapsulates an algorithm inside a class |
 | | 💡 Command | ⏳ | Encapsulate a command request as an object |
 | | 🔗 Chain of Responsibility | ⏳ | A way of passing a request between a chain of objects |
 | | 🎯 State | ⏳ | Alter an object's behavior when its state changes |

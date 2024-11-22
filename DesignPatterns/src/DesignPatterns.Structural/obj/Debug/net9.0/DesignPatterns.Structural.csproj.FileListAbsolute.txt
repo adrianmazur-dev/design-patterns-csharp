@@ -1,0 +1,16 @@
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\bin\Debug\net9.0\DesignPatterns.Structural.deps.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\bin\Debug\net9.0\DesignPatterns.Structural.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\bin\Debug\net9.0\DesignPatterns.Structural.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\bin\Debug\net9.0\DesignPatterns.Core.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\bin\Debug\net9.0\DesignPatterns.Core.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.csproj.AssemblyReference.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.AssemblyInfoInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.AssemblyInfo.cs
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.csproj.CoreCompileInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.sourcelink.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPa.B58DC8B9.Up2Date
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\refint\DesignPatterns.Structural.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\DesignPatterns.Structural.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Structural\obj\Debug\net9.0\ref\DesignPatterns.Structural.dll

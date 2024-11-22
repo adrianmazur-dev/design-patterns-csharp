@@ -1,0 +1,12 @@
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\bin\Debug\net9.0\DesignPatterns.Core.deps.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\bin\Debug\net9.0\DesignPatterns.Core.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\bin\Debug\net9.0\DesignPatterns.Core.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.AssemblyInfoInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.AssemblyInfo.cs
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.csproj.CoreCompileInputs.cache
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.sourcelink.json
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\refint\DesignPatterns.Core.dll
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\DesignPatterns.Core.pdb
+C:\Users\adria\Repos\design-patterns-csharp\DesignPatterns\src\DesignPatterns.Core\obj\Debug\net9.0\ref\DesignPatterns.Core.dll
